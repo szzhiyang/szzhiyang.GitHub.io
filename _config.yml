@@ -1,0 +1,6 @@
+title: szzhiyang 的博客
+description: szzhiyang 的博客
+lang: zh-CN
+plugins:
+  - jekyll-redirect-from
+  - jemoji
