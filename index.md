@@ -10,7 +10,7 @@ redirect_from: /404
 
 > **借助强大易用且毫不冲突的快捷键**
 
-> **彻底提升 Windows 使用效率！** :rocket:
+> **彻底提升 Windows 和 macOS 使用效率！**
 
 <br>
 
