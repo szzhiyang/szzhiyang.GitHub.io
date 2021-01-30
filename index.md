@@ -2,7 +2,7 @@
 redirect_from: /404
 ---
 
-# szzhiyang 的杰作
+# [szzhiyang](https://GitHub.com/szzhiyang) 的杰作
 
 <br>
 
